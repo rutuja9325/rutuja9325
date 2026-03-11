@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rutuja Taralkar 👋
 
-<!--
-**rutuja9325/rutuja9325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer | Spring Boot Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- MySQL
+- REST APIs
+- Maven
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+### Order Management System
+Backend REST API built with Spring Boot for managing customers, products, and orders.
+
+🔗 Project Link  
+https://github.com/rutuja9325/order-management-system
+
+## 🌱 Currently Learning
+- Advanced Spring Boot
+- Microservices Architecture
+- REST API Best Practices
